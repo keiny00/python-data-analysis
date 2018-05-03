@@ -1,0 +1,24 @@
+; for 16-bit app support
+[fonts]
+[extensions]
+[mci extensions]
+[files]
+[Mail]
+MAPI=1
+CMCDLLNAME32=mapi32.dll
+CMC=1
+MAPIX=1
+MAPIXVER=1.0.0.1
+OLEMessaging=1
+[annie]
+CaptureFile=
+VideoDevice2=@device:pnp:\\?\usb#vid_2232&pid_5008&mi_00#6&159b9ebf&1&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+AudioDevice2=
+FrameRate=667111
+UseFrameRate=1
+CaptureAudio=0
+CaptureCC=0
+WantPreview=1
+MasterStream=1
+UseTimeLimit=0
+TimeLimit=0
